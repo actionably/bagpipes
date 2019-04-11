@@ -27,7 +27,7 @@
     "async": "^1.4.2",
     "debug": "^2.1.2",
     "jspath": "^0.3.1",
-    "lodash": "^4.17.10",
+    "@sailshq/lodash": "^3.10.2",
     "machinepack-http": "git://github.com/actionably/machinepack-http.git#3f0b2a5cf841870554d39f805f08626b8dd5ffd7",
     "mustache": "^2.1.3",
     "pipeworks": "^1.3.0"
